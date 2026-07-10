@@ -1,3 +1,5 @@
+# !!! THIS IS A DEPRECATED PROJECT; AND IS ALSO JUST STUPID DON'T BOTHER INSTALLING
+
 # WordCombiner
 A dumb tiny project that combines two words made in three lines of Python for the fair price of (FLASH SALE!!) **zero zembabwean dollars**.
 
